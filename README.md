@@ -1,13 +1,10 @@
 # Play5573gamesforfreegithub.io
-<!doctype html  >
-
-</html>
-
-<head>
+ 
+ 
 
 <title> Play5573 </title>
 
-</head>
+ 
 
 <body>
 
