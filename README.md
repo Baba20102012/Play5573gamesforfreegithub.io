@@ -17,11 +17,11 @@
 <h2> Play for free </h2>
 
 <p> Play5573 games free.    </p>
-</head>
+ 
 <body bgcolor="red">
 
-<title>Inserting Image</title>
-</head>
+<title>Play5573</title>
+ 
 <body> 
          <h2>Sonic the hedgehog</h2> 
          <img scr="18bc2a2b0b7b1eef9fcbf01edb9c1d5a.jpg" width="400px"  height="300px">
