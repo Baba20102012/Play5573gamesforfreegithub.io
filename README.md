@@ -1,6 +1,6 @@
 # Play5573gamesforfreegithub.io
 
- git clone https://github.com/username/username.github.io
+ 
  
 
 <title> Play5573 </title>
